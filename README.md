@@ -1,6 +1,5 @@
-![ReactEmail](public/App.png)
+![Fleurimond](img/Calculator.png.png)
 
- @smithmanny
 
 # My Awesome Project
 This is a calculator I made last year to date. I was surprised how I didn't still it back then but came back to understand the basics of Javascript.
