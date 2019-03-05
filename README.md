@@ -1,4 +1,4 @@
-![Fleurimond](img/Calculator.png.png)
+![Fleurimond](img/Calculator.png)
 
 
 # My Awesome Project
